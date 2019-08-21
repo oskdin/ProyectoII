@@ -1,0 +1,53 @@
+header
+{
+  background-color: #5b7989;
+  border-radius: 15px 15px 15px 15px;
+}
+
+.titulo
+{
+  text-align: left;
+  color:white;
+  font-size: 20px;
+  text-shadow: 0 0 2px #02010a;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-right: 20px;
+}
+
+ header .titulo nav
+{
+  text-align: right;
+}
+
+
+header .titulo  nav li
+{
+  list-style: none;
+  list-style-image: none;
+
+}
+
+header .titulo nav li ul
+{
+
+  text-decoration: none;
+  list-style: none;
+  list-style-image: none;
+  display: inline;
+
+}
+
+#imagenCentral
+{
+  background-color: #82c3a6;
+}
+
+#imagenCentral img
+{
+  padding-left: 10%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  width: 80%;
+  height: 20%;
+}
